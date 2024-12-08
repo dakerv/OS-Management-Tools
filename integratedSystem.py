@@ -1,4 +1,4 @@
-class UnifiedSystem:
+class IntegratedSystem:
     def __init__(self, io_manager, memory_manager):
         self.io_manager = io_manager
         self.memory_manager = memory_manager
